@@ -1,1 +1,4 @@
 GIT Bash Application commands:-
+
+Git push -u origin 
+Git pull --rebash origin
